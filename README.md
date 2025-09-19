@@ -31,7 +31,7 @@ No importa el sistema operativo ya que funciona desde el navegador
 ### 1. Clonar y configurar
 
 ```bash
-git clone <tu-repositorio>
+git clone https://github.com/dglezz1/copypasteapp
 cd copypasteapp
 ```
 
